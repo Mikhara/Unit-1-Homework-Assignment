@@ -4,7 +4,7 @@
 ## Overview and Origin
 
 * Name of company
-
+** Shopify
 * When was the company incorporated?
 
 * Who are the founders of the company?
