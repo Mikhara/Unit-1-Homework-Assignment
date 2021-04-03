@@ -45,9 +45,7 @@ Shopify's earliest beginnings was as an online store itself, called Snowdevil to
 
 The problem Shopify solves is from the start of a business journey with 1,000s of articles and how to guides on the Shopify blog to providing the the ability to sell, market and manage online.
 
-The specific financial problem Shopify solves is providing a 
->"one stop shop" 
-to create and customise an online store, accept payments over web, mobile, social media, brick and mortar shops and manage products, inventory and shipping all on the one e-commerce platform. Importantly, Shopify also offers its store users access to data analytics on who their customers are.
+The specific financial problem Shopify solves is providing a one stop shop to create and customise an online store, accept payments over web, mobile, social media, brick and mortar shops and manage products, inventory and shipping all on the one e-commerce platform. Importantly, Shopify also offers its store users access to data analytics on who their customers are.
 
 Previously, e-commerce stores had to use a variety of products from wordpress for a website, stripe for payments, sendle for shipping, google analytics for marketing analysis and so forth. The problem Shopify solves is bringing this all into one e-commerce platform that streamlines and makes the process more accessible.
 
@@ -82,7 +80,17 @@ Specifically focusing on Shopify's fintech offering to small and medium business
 ![image](shopifyfintechstack.png)
 
 Surmising the stack, Shopify is using the following technologies to offer the following embedded financial abilities for Shopify store users:
-	1. **Shopify Pay** - 
+
+	* 1. **Shopify Pay** - a checkout button for online stores, applicable on Shopify online store front and on social media, built in partnership with Stripe and then agreements with 100 alternate third party gateways such as PayPal.
+	2. **Shop Pay Installments** - buy now, pay later features offered to customers on Shopify online stores, enabled by 
+	3. **Shopify Balance** — enables Shopify store users to access the money paid by customers instantly, enabled by partnerships with digital neo-banks.
+	4. **Shopify Capital** - recently Shopify has moved into lending, offering Shopify store users access to loans, using their financial data on the stores to inform lending, through technologies such as capify and quickbooks.
+
+Shopify still uses the original code Tobias built on Ruby on Rails, althought this is alongside 100s of apps today. Shopify used MySQL as a relational database since its creation, however in 2014, MySQL wasn't able to store all of Shopify's data. That's when the platform began sharding its data into dozens of smaller databases. Shopify started using Memcached for memory-caching and Redis for key-value storage and ques, along with several other databases. In the last few years, Shopify has transitioning away from shards to pods, enabling separate functionality per a region and preventing global outages.
+	* Pods
+	![image](pod.png)
+
+The tech stack of Shopify Admin began with HTML templates, Prototype JavaScript Framework, and jQuery. Next, it transitioned to Batman.js (Batman JavaScript) and then bounced back to basic HTML and Prototype JavaScript. Recently, Shopify Admin landed on React and TypeScript. 
 
 ## Landscape:
 
@@ -132,5 +140,8 @@ Surmising the stack, Shopify is using the following technologies to offer the fo
 * https://wpforms.com/ecommerce-statistics/
 * https://theappideas.com/what-are-the-unique-features-of-shopify/#:~:text=Shopify%20allows%20unlimited%20products%2C%20there,and%20take%20payments%20in%20person.
 * https://stackshare.io/shopify/shopify
+* https://www.guidance.com/blog/shopify-tech-stack
+* https://www.crunchbase.com/organization/shopify/technology
+* https://shopify.engineering/a-pods-architecture-to-allow-shopify-to-scale
 
 
