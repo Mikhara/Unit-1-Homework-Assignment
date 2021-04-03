@@ -4,8 +4,12 @@
 ## Overview and Origin
 
 * Name of company
+<<<<<<< HEAD
 Shopify Inc.
 
+=======
+* Shopify
+>>>>>>> 124b2bd68c9da136d3ab2e93c85fb50cd7e0f473
 * When was the company incorporated?
 Founded in 2004 as Snowdevil's online store and incorpoated as Shopify in June 2006.
 
