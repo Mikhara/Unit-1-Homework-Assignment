@@ -3,26 +3,23 @@
 
 ## Overview and Origin
 
-* Name of company
-<<<<<<< HEAD
-Shopify Inc.
+* Name of company---
+Shopify Inc.---
+![image](shopifylogo.png)---
 
-=======
-* Shopify
->>>>>>> 124b2bd68c9da136d3ab2e93c85fb50cd7e0f473
-* When was the company incorporated?
+* When was the company incorporated?---
 Founded in 2004 as Snowdevil's online store and incorpoated as Shopify in June 2006.
 
-* Who are the founders of the company?
+* Who are the founders of the company?---
 Tobias Lutke - co-founder and current CEO
 Scott Lake -  co-founder
 Daniel Weinand - joined later as a co-founder and Chief Design Officer
 
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about?---
 Tobias Lutke took a snowboarding trip in his ealry 20s to a ski resort outside of Vancouver, falling in love with the sport. He moved there one year later to pursue the sport and be with his then girlfriend, now wife. Through his girlfried, he met Scott Lake. Tobias and Scott attempted to open an online store for snowboarding equipment in 2004 called Snowdevil. Frustrated by existing e-commerce products available to build the online store, Tobias, a computer programmer, decided to build his own e-commerce platform. Using open source web application framework, Ruby on Rails, Tobias built Snowdevil's online store after two months of development. Recognising that many others would be facing the problems he faced in finding a suitable e-commerce platform, him and Scott launched Shopify in 2006 to address these problems.
 
-* How is the company funded? How much funding have they received?
+* How is the company funded? How much funding have they received?---
 Before approaching venture capitalists, Tobias turned to local Toronto based angel investor, John Phillips for intital capital raisings. In 2007, John invested $250k with Shopify having a valuation of $3 million then. In 2009, John invested a further $500k and joined the board of directors. Since launching their shopping cart function in 2007, Shopify had a net combined total of $100 million in sales by 2009. In 2010, they raised their first series A round of funding for $7 million and one year later in 2011, they raised a series B round of $15 million.
 
 By 2012, Shopify was processing $740 million worth of sales with 40,000 stores using the e-commerce platform across 90 countries, taking a 2.9% +$0.30 transaction fee and charging three tiers of monthy subscriptions.
