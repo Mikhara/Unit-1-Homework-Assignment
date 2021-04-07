@@ -98,10 +98,11 @@ The tech stack of Shopify Admin began with HTML templates, Prototype JavaScript 
 * What domain of the financial industry is the company in?
 
 Shopify spans across four domains:
-	1. Payments/Billing;
-	2. Enterprise Solutions;
-	3. Lending; and
-	4. RegTech.
+
+1. Payments/Billing;
+2. Enterprise Solutions;
+3. Lending; and
+4. RegTech.
 
 The domain I will be focusing on, and where I believe Shopify mainly sits, is in Enterprise Solutions. My understanding of Enterprise Solutions are solutions that integrate multiple facets of a company's business. In Shopify's case, this would be its billing system, inventory management system, customer relationship management system, supplier relationship management system, sale analysis system that it provides to its users.
 
@@ -109,25 +110,49 @@ The domain I will be focusing on, and where I believe Shopify mainly sits, is in
 
 There are 10 major trends in the Enterprise Solutions domain and their associated benefits are outlined below:
 
-	1. Know Enterprise Employees with Machine Learning
-		* Previously, machine learning has been used to outwardly analyse customer trends and purchasing habits. Now those same techniques are being used internally to enable companies to understand their employees better - by tracking employee tasks, providing employee's information on how they performed tasks previously, their schedules and interestingly how this will inform the COVID-19 work from home environment we all now work in.
-	2. Cloud-based Enterprise Software
-		* Cloud based computing is arguable the norm across a variety of industries with data being stored and retrieved and accessed in the cloud. 
-	3. Smart Enterprise Applications
-	4. Internet of Things driven Enterprise Solutions
-	5. Blockchain keeps Enterprise Data Secure
-	6. Augmented and Virtual Reality Enterprise Applications
-	7. Microservices for Enterprises
-	8. Voice-driven Enterprise Software
-	9. Improved Enterprise Extensibility with PaaS
-	10. Instant Notifications for Enterprise Communications
+1. Know Enterprise Employees with Machine Learning
+	* Previously, machine learning has been used to outwardly analyse customer trends and purchasing habits. Now those same techniques are being used internally to enable companies to understand their employees better - by tracking employee tasks, providing employee's information on how they performed tasks previously, their schedules and interestingly how this will inform the COVID-19 work from home environment we all now work in.
+2. Cloud-based Enterprise Software
+	* Cloud based computing is arguably the norm across a variety of industries with data being stored and retrieved and accessed in the cloud. This provides great access and efficiency gains for business.
+3. Smart Enterprise Applications
+	* This is the integration of atificial intelligence into existing enterprise applications such as billing systems, CRM systems and so forth. This enables quicker and more focused searches and access to information.
+4. Internet of Things driven Enterprise Solutions
+	* This trend really took off through the Fitbit and smart watches for customers globally however, a rangle of physical terminals are used by businesses to collect data and display data that their software systems process.
+5. Blockchain keeps Enterprise Data Secure
+	* The most notable example of blockchain has been its application to currency to form crypo currency. However, blockchain application is used across businesses to now store their important information.
+6. Augmented and Virtual Reality Enterprise Applications
+	* Particularly relevant in a COVID-19 world, these technologies have enabled people to engage in a whole new way. In businesses, this has largely been used to run training simulations.
+7. Microservices for Enterprises
+	* Microservices are blocks of code performing individual tasks that are easier to maintain. In Shopify this has been the addition of third part apps that plug-in for Shopify users to access. This enables access to a huge variety of plug-ins to assist employees in  performing their tasks as needed.
+8. Voice-driven Enterprise Software
+	* Advancement in speech recognition has seen enterprise software products providing voice driven interfaces to enable quick and efficient enagagement.
+9. Improved Enterprise Extensibility with PaaS
+	* Platform as a Service (PaaS) is a group of application development tools being used to extend all the applications to the cloud.
+10. Instant Notifications for Enterprise Communications
+	* Push technology in Enterprise Software Applications allows employees to be informed about news, urgent tasks, updates and issues instantly.
 
 * What are the other major companies in this domain?
+
+In the Enterprise Solutions domain, there are giants in respective systems, for example -
+	* In payment/billing systems we think of Paypal, Stripe, Afterpay; and
+	* In CRM systems we think of Salesforce, Oracle; and
+	* In inventory systems we think of Atlassian; Oracle.
+
+But, when we focus in on Enterprise Solutions, the major companies in this space are those that provide all these systems in one place, like Shopify, this would then include the following major companies:
+
+	* WooCommerce
+	* Squarespace
+	* Amazing Marketplace
+	* eBay
+	* BigCommerce
+	* Wix
 
 
 ## Results
 
 * What has been the business impact of this company so far?
+
+
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
