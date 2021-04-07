@@ -81,22 +81,46 @@ Specifically focusing on Shopify's fintech offering to small and medium business
 
 Surmising the stack, Shopify is using the following technologies to offer the following embedded financial abilities for Shopify store users:
 
-	* 1. **Shopify Pay** - a checkout button for online stores, applicable on Shopify online store front and on social media, built in partnership with Stripe and then agreements with 100 alternate third party gateways such as PayPal.
-	2. **Shop Pay Installments** - buy now, pay later features offered to customers on Shopify online stores, enabled by 
-	3. **Shopify Balance** — enables Shopify store users to access the money paid by customers instantly, enabled by partnerships with digital neo-banks.
-	4. **Shopify Capital** - recently Shopify has moved into lending, offering Shopify store users access to loans, using their financial data on the stores to inform lending, through technologies such as capify and quickbooks.
+1. **Shopify Pay** - a checkout button for online stores, applicable on Shopify online store front and on social media, built in partnership with Stripe and then agreements with 100 alternate third party gateways such as PayPal.
+2. **Shop Pay Installments** - buy now, pay later features offered to customers on Shopify online stores, enabled by 
+3. **Shopify Balance** — enables Shopify store users to access the money paid by customers instantly, enabled by partnerships with digital neo-banks.
+4. **Shopify Capital** - recently Shopify has moved into lending, offering Shopify store users access to loans, using their financial data on the stores to inform lending, through technologies such as capify and quickbooks.
 
-Shopify still uses the original code Tobias built on Ruby on Rails, althought this is alongside 100s of apps today. Shopify used MySQL as a relational database since its creation, however in 2014, MySQL wasn't able to store all of Shopify's data. That's when the platform began sharding its data into dozens of smaller databases. Shopify started using Memcached for memory-caching and Redis for key-value storage and ques, along with several other databases. In the last few years, Shopify has transitioning away from shards to pods, enabling separate functionality per a region and preventing global outages.
-	* Pods
-	![image](pod.png)
+Shopify still uses the original code Tobias built on Ruby on Rails, although this is alongside 100s of apps today. Shopify used MySQL as a relational database since its creation, however in 2014, MySQL wasn't able to store all of Shopify's data. That's when the platform began sharding its data into dozens of smaller databases. Shopify started using Memcached for memory-caching and Redis for key-value storage and ques, along with several other databases. In the last few years, Shopify has transitioned away from shards to pods, enabling separate functionality per a region and preventing global outages.
+	
+Pods
+![image](pod.png)
 
-The tech stack of Shopify Admin began with HTML templates, Prototype JavaScript Framework, and jQuery. Next, it transitioned to Batman.js (Batman JavaScript) and then bounced back to basic HTML and Prototype JavaScript. Recently, Shopify Admin landed on React and TypeScript. 
+The tech stack of Shopify Admin began with HTML templates, Prototype JavaScript Framework, and jQuery. Next, it transitioned to Batman JavaScript and then bounced back to basic HTML and Prototype JavaScript. Recently, Shopify Admin landed on React and TypeScript. 
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
 
+Shopify spans across four domains:
+	1. Payments/Billing;
+	2. Enterprise Solutions;
+	3. Lending; and
+	4. RegTech.
+
+The domain I will be focusing on, and where I believe Shopify mainly sits, is in Enterprise Solutions. My understanding of Enterprise Solutions are solutions that integrate multiple facets of a company's business. In Shopify's case, this would be its billing system, inventory management system, customer relationship management system, supplier relationship management system, sale analysis system that it provides to its users.
+
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+
+There are 10 major trends in the Enterprise Solutions domain and their associated benefits are outlined below:
+
+	1. Know Enterprise Employees with Machine Learning
+		* Previously, machine learning has been used to outwardly analyse customer trends and purchasing habits. Now those same techniques are being used internally to enable companies to understand their employees better - by tracking employee tasks, providing employee's information on how they performed tasks previously, their schedules and interestingly how this will inform the COVID-19 work from home environment we all now work in.
+	2. Cloud-based Enterprise Software
+		* Cloud based computing is arguable the norm across a variety of industries with data being stored and retrieved and accessed in the cloud. 
+	3. Smart Enterprise Applications
+	4. Internet of Things driven Enterprise Solutions
+	5. Blockchain keeps Enterprise Data Secure
+	6. Augmented and Virtual Reality Enterprise Applications
+	7. Microservices for Enterprises
+	8. Voice-driven Enterprise Software
+	9. Improved Enterprise Extensibility with PaaS
+	10. Instant Notifications for Enterprise Communications
 
 * What are the other major companies in this domain?
 
@@ -143,5 +167,7 @@ The tech stack of Shopify Admin began with HTML templates, Prototype JavaScript 
 * https://www.guidance.com/blog/shopify-tech-stack
 * https://www.crunchbase.com/organization/shopify/technology
 * https://shopify.engineering/a-pods-architecture-to-allow-shopify-to-scale
+* https://www.gartner.com/en/information-technology/glossary/enterprise-solutions
+* https://blog.techliance.com/enterprise-software-development-trends/
 
 
