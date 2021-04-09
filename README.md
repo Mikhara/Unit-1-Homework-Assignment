@@ -220,9 +220,9 @@ The technology utlisted here is blockchain. The general application and data nee
 
 _3D Models_:
 Commonly used 3D software to create models include:
-	* Maya;
-	* Blender; and
-	* Photoshop.
+* Maya;
+* Blender; and
+* Photoshop.
 
 Shopify now provides it's own 3D Warehouse App which uses a USDZ format, whereas most models are a GLB format. Shopify can accept both. The main technology advancement needed here is quick uploading and downloading speeds of 3D models. To address this, Shopify will physically need more storage space, computing power and GUIs. Shopify may look at acquiring technologies such as _Pixyz_ to optimise 3D model size.
 
