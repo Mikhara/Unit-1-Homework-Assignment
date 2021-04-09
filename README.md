@@ -15,9 +15,9 @@ Founded in 2004 as Snowdevil's online store and incorpoated as Shopify in June 2
 
 * **Who are the founders of the company?**
 
-Tobias Lutke - co-founder and current CEO
-Scott Lake -  co-founder
-Daniel Weinand - joined later as a co-founder and Chief Design Officer
+	* Tobias Lutke - co-founder and current CEO
+	* Scott Lake -  co-founder
+	* Daniel Weinand - joined later as a co-founder and Chief Design Officer
 
 
 * **How did the idea for the company (or project) come about?**
@@ -64,7 +64,7 @@ There are an estimated 370 ecommerce platforms with well known names such as the
 * What sets shopify apart is the following:
   	* Value for money: Shopify is the cheapest value for money with their lowest subscription of Shopify Lite at $9USD/month offering the Shopify Pay function that can be integrated with a free Facebook Shop.
   	* No coding: Shopify enables online store creation, payment receival and management of inventory and customer marketing with no coding required. For those who want to specialise features, coding is available.
-  	* Third Party apps: Shopify empowers developers to write add-ins and apps to personalise a user's store.
+  	* Third Party apps: Shopify empowers developers to write add-ins and apps in a coding langugae they've created, Liquid, so that store users can personalise their store with various plug-ins and apps.
   	* Shopify blog: Shopify spends a lot of money on building a community of users sharing problems and solutions on its blog community, enagling the solution to user problems to be quickly found and applied.
   	* Shopify offers 70 payment gateways in more than 50 languages, much more options than its competitors by effectively partnering with payment companies in a range of countries.
   	* Unlimited bandwidth and storage enabling efficient loading speeds on web and mobile.
@@ -203,21 +203,22 @@ I would advice Shopify to implement two abilities:
 
 * **Why do you think that offering this product or service would benefit the company?**
 
-_Cryptocurrency_
+_Cryptocurrency_:
 I think the ability to pay for products/services on Shopify stores using Crypto would be a brand piece as well as a technical ability piece. Crypto itselt is contentious but its popularity in recent times can not be disputed, especially with Elon Musk's personal buy into Bitcoin and Tesla's buy in. Furthermore, you can now purchase Tesla with Bitcoin. I think Shopify, which positions itself as the leader in empowering enterprise for anyone, anywhere, should have this ability to pay via crypto as well. It would also enable their payments technology to handle such payments, building architecture that may be the norm in the future.
 
-_3D Models_
+_3D Models_:
 The progress in VR and AR technology means the way customers interact with product photos in online shopping may change drastically. Instead, I might don a pair of VR glasses and imagine what it would be like to pick up that handbag and how it would look on me on the Shopify Store. I believe 3D models is the online shopping future. However, 3D model files are much larger than 2D photos even on high quality, Shopify needs to introduce software that optimising the loading speeds of 3D models and its exciting to see they are beginning to do so on their Shopify Help centre.
 
 * **What technologies would this additional product or service utilize?**
 
-_Cryptocurrency_
+_Cryptocurrency_:
 To enable Shopify Pay to handles Cryptocurrency payments, Shopify would first need to set up a Bitcoin or relevant Cryptocurrency wallet. They would share this wallet via alphanumeric code or a QR code for a customer to enter into their crypto wallet. The amount of crypto to enter will have to valid for a specific time window too since the value of crypto changes unlike fiat money. Shopify may charge a wallet provider fee and Bitcoin charges a network fee. This is one of Crypto's main selling features, you don't need a third party service like Coinbase or Bitpay integrated into your e-commerce platform, you just need to generate a Bitcoin address for each sale.
 
 The technology utlisted here is blockchain. The general application and data needed to create your own wallets and receive/send payments is illustrated in the diagram below:
 ![image](bitcointechstack.png)
 
-_3D Models_
+
+_3D Models_:
 Commonly used 3D software to create models include:
 	* Maya;
 	* Blender; and
@@ -228,10 +229,10 @@ Shopify now provides it's own 3D Warehouse App which uses a USDZ format, whereas
 
 * **Why are these technologies appropriate for your solution?**
 
-_Cryptocurrency_
+_Cryptocurrency_:
 Cryptocurrency is enabled by blockchain technology hence is crucial to creating a cryptocurrency wallet and assigning value to crypto as a currency.
 
-_3D Models_
+_3D Models_:
 Existing modelling software enables 3D creation and the focus will really be on hardware and optimisation technology to enable handling of much larger files on e-commerce stores.
 
 ## Addendum
